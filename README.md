@@ -12,3 +12,5 @@ Receive frequnecy should be set 457.9375 MHz.
 
 Note that this software is receive-only, and will not generate packets.  It is intended only for passive monitoring.
 This software does not decode packets from the Head-of-Train device.
+
+This is a POC.  No attempt is made to catch or handle errors.  If the GRC flowchart crashes or the TCP connection is interrupted, the receiver script will not know about it, and will not automatically reconnect.  
