@@ -14,3 +14,5 @@ Note that this software is receive-only, and will not generate packets.  It is i
 This software does not decode packets from the Head-of-Train device.
 
 This is a POC.  No attempt is made to catch or handle errors.  If the GRC flowchart crashes or the TCP connection is interrupted, the receiver script will not know about it, and will not automatically reconnect.  
+
+Also included are slides from my talk at DEFCON 26, and a WAV file with some packets to play with.  
