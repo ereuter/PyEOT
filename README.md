@@ -17,8 +17,4 @@ This is a POC.  No attempt is made to catch or handle errors.  If the GRC flowch
 
 Also included are slides from my talk at DEFCON 26, and a WAV file with some packets to play with.  
 
-** FILES ADDED 18Jan24 **
-- pyeothot.py is an alternative version of pyeot.py that includes HOT decoding
-- hot_decoder.py is required to add this function
-
 Not much if any testing has been done with this version.
